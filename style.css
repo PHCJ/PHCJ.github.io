@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+}
